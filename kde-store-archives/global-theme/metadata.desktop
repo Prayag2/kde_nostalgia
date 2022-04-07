@@ -1,0 +1,13 @@
+[Desktop Entry]
+Comment=A simple kde theme inspired by the nostalgia14 color palette https://lospec.com/palette-list/nostalgi14
+Name=Nostalgia
+X-KDE-PluginInfo-Author=prayagjain
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=prayagjain2@gmail.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-Name=nostalgia
+X-KDE-PluginInfo-Version=v1
+X-KDE-PluginInfo-Website=https://github.com/prayag2/kde_nostalgia
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KPackage-Dependencies=kns://plasma-themes.knsrc/api.kde-look.org/1462611,kns://icons.knsrc/api.kde-look.org/1651940,kns://colorschemes.knsrc/api.kde-look.org/1757716,kns://wallpaper.knsrc/api.kde-look.org/1757718
